@@ -1,0 +1,26 @@
+{
+  "name": "simple-promisify",
+  "version": "1.0.0",
+  "description": "simple promisify function, works with node 4 and up, or babel",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cullophid/promisify.git"
+  },
+  "author": "cullophid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cullophid/promisify/issues"
+  },
+  "homepage": "https://github.com/cullophid/promisify#readme",
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "sinon": "^1.17.2"
+  },
+  "dependencies": {
+    "ramda": "^0.19.1"
+  }
+}
