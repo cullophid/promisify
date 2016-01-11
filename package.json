@@ -1,6 +1,6 @@
 {
   "name": "simple-promisify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple promisify function, works with node 4 and up, or babel",
   "main": "index.js",
   "scripts": {
